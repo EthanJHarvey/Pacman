@@ -1,0 +1,98 @@
+﻿  main.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.23.28105\include\vector(1706,1): warning C4251: 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>::_Mypair': class 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>' needs to have dll-interface to be used by clients of class 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.23.28105\include\vector(1706,1): warning C4251:         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.23.28105\include\vector(1706,1): warning C4251:         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.23.28105\include\vector(1706,1): warning C4251:             _Ty=S2D::Input::Keys
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.23.28105\include\vector(1706,1): warning C4251:         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.23.28105\include\vector(1706): message : see declaration of 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.23.28105\include\vector(1706): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.23.28105\include\vector(1706): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.23.28105\include\vector(1706): message :             _Ty=S2D::Input::Keys
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.23.28105\include\vector(1706): message :         ]
+  Pacman.cpp
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\S2D\Input.h(108): message : see reference to class template instantiation 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>' being compiled
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\S2D\Input.h(108): message :         with
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\S2D\Input.h(108): message :         [
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\S2D\Input.h(108): message :             _Ty=S2D::Input::Keys
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\S2D\Input.h(108): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.23.28105\include\vector(1706,1): warning C4251: 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>::_Mypair': class 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>' needs to have dll-interface to be used by clients of class 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.23.28105\include\vector(1706,1): warning C4251:         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.23.28105\include\vector(1706,1): warning C4251:         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.23.28105\include\vector(1706,1): warning C4251:             _Ty=S2D::Input::Keys
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.23.28105\include\vector(1706,1): warning C4251:         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.23.28105\include\vector(1706): message : see declaration of 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.23.28105\include\vector(1706): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.23.28105\include\vector(1706): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.23.28105\include\vector(1706): message :             _Ty=S2D::Input::Keys
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.23.28105\include\vector(1706): message :         ]
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\S2D\Input.h(108): message : see reference to class template instantiation 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>' being compiled
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\S2D\Input.h(108): message :         with
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\S2D\Input.h(108): message :         [
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\S2D\Input.h(108): message :             _Ty=S2D::Input::Keys
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\S2D\Input.h(108): message :         ]
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(124,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(124,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(129,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(129,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(134,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(134,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(139,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(139,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(151,89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(151,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(157,83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(157,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(163,105): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(210,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(211,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(223,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(223,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(260,55): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(270,56): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(288,54): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(289,55): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(307,65): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(324,54): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(341,50): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(342,51): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(369,50): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(370,51): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(397,50): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(398,51): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(425,50): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(426,51): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(445,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(447,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(449,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(451,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(457,35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(458,29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(459,34): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(460,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(470,37): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(471,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(472,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(473,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(483,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(484,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(485,35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(486,29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(496,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(497,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(498,35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(499,29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(512,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(514,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(516,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(518,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(523,39): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(524,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(525,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(526,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(538,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(539,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(540,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Pacman\Pacman.cpp(541,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Pacman.vcxproj -> C:\Users\creep\OneDrive\Documents\Uni Work\FOGGS\Pacman Assignment 1\Pacman\Debug\Pacman.exe
